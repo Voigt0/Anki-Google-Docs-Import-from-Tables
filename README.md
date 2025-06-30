@@ -8,7 +8,7 @@ A modified version of [Google Doc Decks (Remote Decks)](https://ankiweb.net/shar
 
 The main enhancement is the ability to generate Anki flashcards from **tables** (`<table>`) in Google Docs.
 
-This was designed to better suit workflows where Google Docs are structured with bullet points, providing a more flexible and readable input method for many users.
+This was designed to better suit workflows where Google Docs are structured with tables, providing a more flexible and readable input method for many users.
 
 ---
 
@@ -111,13 +111,13 @@ You can use the following in your Google Doc:
 
 Based on the original [Google Doc Decks (Remote Decks)](https://ankiweb.net/shared/info/924929499)  
 Created by the [AnKing team](https://www.ankingmed.com)  
-Modified by [V01gt](https://github.com/V01gt) for bullet point support
+Modified by [V01gt](https://github.com/V01gt) for table support
 
 All original rights reserved to their respective authors.
 
 ---
 
-> Built to simplify your workflow. If you’re a student using bullet points to learn, this add-on is made for you.
+> Built to simplify your workflow. If you’re a student using Google Docs to learn, this add-on is made for you.
 ```
 
 ---
